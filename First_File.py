@@ -3,3 +3,7 @@
 # This is our code
 
 print("I love Git")
+
+# This is a change to out code.
+
+print("I love merging")
